@@ -1,5 +1,4 @@
-# Software-Engineering-IT-Leaders-of-the-Future
-
+# Программная инженерия: ИТ-лидеры будущего
 
 В программе данного курса:
 
